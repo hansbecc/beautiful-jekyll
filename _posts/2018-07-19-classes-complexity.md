@@ -82,7 +82,7 @@ to include steps where its decision-making is randomized. Algorithms in BPP are 
 give the right answer with a probability close to 1.
 
 **Typical problem:**
-You’re handed two different formulas that each produce a polynomial that has many variables. Do
+> You’re handed two different formulas that each produce a polynomial that has many variables. Do
 the formulas compute the exact same polynomial? This is called the polynomial identity testing
 problem.
 
