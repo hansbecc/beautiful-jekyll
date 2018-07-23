@@ -1,16 +1,27 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Controlling complexity is the essence of computer programming (Brian Karnighan)
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Hans. The following are phrases about what I like:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- "The beauty of **chess** is it can be whatever you want it to be. It transcends language, age, race, religion, politics, gender and socioeconomic background. Whatever your circumstances, anyone can enjoy a good fight to the death over the chess board". (Simon Williams)
+-**Gambeteando**: A South American term which has its origins in the sea. The word means shrimping, relating to fishing boats moving from boat to boat.
+-"We need to be in the actual life, the real life, because **capoeira** is fundamentally about the roda of life" (Mestre Gato)
+-**Family** and **friends** are the most important things in this life.
+-**Fact:** During **StarCraft's** early development, you needed three High Templars to make an Archon. 
 
 What else do you need?
 
-### my history
+### movies: science fiction, Drama/Mystery, Thriller/Action, series
+-The Silence of the Lambs
+-The Lord of the Rings
+-The Godfather
+-Ben-Hur
+-Pirate of the Caribbean
+-Barman: The Dark Knight Rises
+-Matrix
+-Hackers
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
