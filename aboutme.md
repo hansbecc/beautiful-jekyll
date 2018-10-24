@@ -24,9 +24,12 @@ Science fiction, drama/mystery, thriller/action, series
 - The Lord of the Rings
 - The Godfather
 - Ben-Hur
+- Gladiator
 - Pirate of the Caribbean
-- Barman: The Dark Knight Rises
+- Batman: The Dark Knight Rises
 - Matrix
 - Hackers
+- Game of Thrones
+- X-Men
 
 
